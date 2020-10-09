@@ -1,0 +1,108 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "abc Restaurant",
+      "address": "Mumbai",
+      "mobile": "7676877877",
+      "email": "abc@abc.com"
+    },
+    {
+      "id": 2,
+      "name": "xyz Restaurant",
+      "address": "Bnagalore",
+      "mobile": "678899000",
+      "email": "xyz@xyz.com"
+    },
+    {
+      "id": 3,
+      "name": "rama Restaurant",
+      "address": "Kolkata",
+      "mobile": "7678899000",
+      "email": "rama@rama.com"
+    },
+    {
+      "id": 4,
+      "name": "william Restaurant",
+      "address": "Mangalore",
+      "mobile": "878899000",
+      "email": "william@w.com"
+    },
+    {
+      "name": "guljar",
+      "address": "",
+      "email": "guljar@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "vaishali",
+      "address": "",
+      "email": "vaishali@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "hema",
+      "address": "hyderabad",
+      "email": "hema@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Sara",
+      "addressr": "syberia",
+      "email": "sara@gmail.com",
+      "id": 8
+    },
+    {
+      "name": null,
+      "address": null,
+      "email": null,
+      "id": 9
+    },
+    {
+      "name": "nisha",
+      "address": "n",
+      "email": "n@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "richa",
+      "address": "mumbai",
+      "mobile": "78780906576",
+      "email": "richa@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "arti",
+      "address": "Dadar",
+      "mobile": "67687878998",
+      "email": "arti@gmail.com",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "name": "k",
+      "password": "l7988",
+      "email": "k@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "k",
+      "password": "l7988",
+      "email": "k@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "k",
+      "password": "l7988",
+      "email": "k@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "nisha",
+      "password": "nisha123",
+      "email": "nisha@gmail.com",
+      "id": 4
+    }
+  ]
+}
